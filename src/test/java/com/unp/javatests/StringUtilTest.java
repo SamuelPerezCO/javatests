@@ -1,4 +1,5 @@
-package com.unp.javatests.util;
+package com.unp.javatests;
+import com.unp.javatests.util.StringUtil;
 import org.junit.Assert;
 import org.junit.Test;
 

@@ -1,5 +1,6 @@
-package com.unp.javatests.util;
+package com.unp.javatests;
 
+import com.unp.javatests.util.PasswordUtil;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
